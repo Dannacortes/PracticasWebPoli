@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+}
+h1, h2, h3{
+    font-family: Arial;
+    font-size: 24px;
+
+}
+p{
+    font-family: Georgia;
+    font-size: 18px;
+    color: #757575;
+
+}
+#receta2{
+    position: absolute;
+    right: 50%;
+    top: -10%;
+
+}
+#menu{
+    position: relative;
+    margin: 10px 0 0 10px ;
+
+}
