@@ -1,0 +1,12 @@
+#div3{
+display: flex;
+justify-content: flex-end;
+}
+h1{
+    position: relativa;
+    width: 50%;
+}
+#Titulo{
+    display: flex;
+    justify-content: center;
+}
